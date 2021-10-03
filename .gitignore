@@ -2,6 +2,10 @@
 **/data_lmdb_release/*
 **/image_release/*
 **/result/*
+
+output/*
+!output/.gitignore
+
 *.mdb
 *.pth
 *.tar
